@@ -1,5 +1,5 @@
 import csv
-import random
+
 archivo=input("ingrese el nombre del archivo csv que desea que sea mostrado por el programa: ")
 archivo+=".csv"
 
